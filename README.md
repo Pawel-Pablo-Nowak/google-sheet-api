@@ -4,7 +4,7 @@
 
 - PHP 7.4.9
 
-- Google API Account credentials in  **service_key.json** with data as below:
+- Google API Account credentials in  **service_key.json**  located in config folder with data as below:
 
 
         {
