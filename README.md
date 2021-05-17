@@ -44,7 +44,7 @@ https://docs.google.com/spreadsheets/d/{spreadhSheetId}/edit#gid=0`
   
   
 ## Command run:
-` php bin/console app:process-xml cofee_feed.xml`
+` php bin/console app:process-xml coffee_feed.xml`
 
 ## Result:
 
