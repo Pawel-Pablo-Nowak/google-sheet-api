@@ -34,9 +34,9 @@ https://docs.google.com/spreadsheets/d/{spreadhSheetId}/edit#gid=0`
 
 - variables in .env:
 
-**GOOGLE_APPLICATION_CREDENTIALS=./config/service_key.json
+**GOOGLE_APPLICATION_CREDENTIALS=./config/service_key.json**
 
-SPREADSHEET_ID=**
+**SPREADSHEET_ID=**
 
  
 ## Testing:
